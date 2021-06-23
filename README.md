@@ -1,2 +1,2 @@
 # redis-pubsub-sample
-spring boot 레디스 샘플
+spring boot기반 레디스 pubsub 샘플소스 
